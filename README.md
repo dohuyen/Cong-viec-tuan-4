@@ -100,7 +100,7 @@ Lệnh này nâng cấp toàn hệ thống tới một phiên bản mới hơn. 
 ###**3.2: Thư mục gốc chứa dữ liệu website của Apache trên Ubuntu**
 - Mặc định, Apache trên Ubuntu sẽ sử dụng thư mục /var/www/html để chứa dữ liệu website gốc (load bằng IP hoặc hostname). Khi bạn vào đây sẽ thấy một file index.html, đó chính là file giao diện chào mừng mà bạn đã thấy ở trên.
 
-###**3.3: Tạo Virtual Hosts
+###**3.3: Tạo Virtual Hosts**
 - Vào var/www/html để tạo file 
 - Viết bằng ngôn ngữ htnl trong file vừa tạo nội dung bạn muốn hiện .
 - Vào mạng : localhost/ten_file_vua_tao
